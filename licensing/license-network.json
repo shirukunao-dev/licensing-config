@@ -1,0 +1,4 @@
+{
+  "entitlementJsonUrl": "https://raw.githubusercontent.com/shirukunao-dev/licensing-config/main/licensing/entitlement.json",
+  "revocationListUrl": "https://raw.githubusercontent.com/shirukunao-dev/licensing-config/main/licensing/revoked.json"
+}
